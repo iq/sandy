@@ -21,6 +21,8 @@ The program is the on-chain program in which the bot interacts with to execute t
 
 This is my first project related to MEV, and I’m sure there are many aspects that could be optimized or improved. Feel free to submit a pull request if you have any suggestions or enhancements to share.
 
+**Additionally, since there is no publicly available access to a mempool, this project does not provide a fully functional example of reading transactions from the mempool and is not intended for practical use without modification.**
+
 #### Resources / Inspiration
 - [subway](https://github.com/libevm/subway)
 - [subway-rs](https://github.com/refcell/subway-rs)
